@@ -1,11 +1,11 @@
 # TerrariaArmMac
-Precompiled files are available on the releases page. This repo only contains code from terraria's open source dependencies, and contains no code copyrighted by Re-Logic.
+Precompiled files are available on the [releases](https://github.com/Candygoblen123/TerrariaArmMac/releases) page. This repo only contains code from terraria's open source dependencies, and contains no code copyrighted by Re-Logic.
 
 # How to install
 
 1. First things first, make a backup of your existing terraria install. You can find it by right clicking the game in Steam > Manage > Browse Local Files.
 
-2. Download the latest release from the Releases page
+2. Download the latest release from the [Releases](https://github.com/Candygoblen123/TerrariaArmMac/releases) page
 
 3. Unzip the Terraria Arm.zip file, there should be a folder inside called `Contents`
 
